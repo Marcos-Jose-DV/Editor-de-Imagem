@@ -12,6 +12,7 @@ INVERT_DEFAULT = False
 
 
 # Colors
+BACKGROUND_COLOR = '#242424'
 WHITE = '#FFF'
 GREY = 'grey'
 PURPLE = '#4D446F'
